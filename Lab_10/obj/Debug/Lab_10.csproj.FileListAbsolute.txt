@@ -1,0 +1,10 @@
+C:\Users\bolga\source\repos\Lab_10\Lab_10\bin\Debug\Lab_10.exe.config
+C:\Users\bolga\source\repos\Lab_10\Lab_10\bin\Debug\Lab_10.exe
+C:\Users\bolga\source\repos\Lab_10\Lab_10\bin\Debug\Lab_10.pdb
+C:\Users\bolga\source\repos\Lab_10\Lab_10\obj\Debug\Lab_10.csprojAssemblyReference.cache
+C:\Users\bolga\source\repos\Lab_10\Lab_10\obj\Debug\Lab_10.Form1.resources
+C:\Users\bolga\source\repos\Lab_10\Lab_10\obj\Debug\Lab_10.Properties.Resources.resources
+C:\Users\bolga\source\repos\Lab_10\Lab_10\obj\Debug\Lab_10.csproj.GenerateResource.cache
+C:\Users\bolga\source\repos\Lab_10\Lab_10\obj\Debug\Lab_10.csproj.CoreCompileInputs.cache
+C:\Users\bolga\source\repos\Lab_10\Lab_10\obj\Debug\Lab_10.exe
+C:\Users\bolga\source\repos\Lab_10\Lab_10\obj\Debug\Lab_10.pdb
